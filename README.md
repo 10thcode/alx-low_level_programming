@@ -1,7 +1,7 @@
 
 # ALX Low Level Programming
 
-This repository contains projects from ALX SE Course on
+Projects from ALX SE Course on
 **Low Level Programming**.
 
 ## Projects
