@@ -105,3 +105,7 @@ Projects from ALX SE Course on
 - ### [0x1C-makefiles](https://github.com/10thcode/alx-low_level_programming/tree/main/0x1C-makefiles)
 
     Creating and using makefiles.
+
+- ### [https://github.com/10thcode/alx-low_level_programming/blob/main/0x1C-makefiles/100-Makefile](https://github.com/10thcode/alx-low_level_programming/tree/main/0x1E-search_algorithms)
+
+    C Programming - Searching Algorithms
