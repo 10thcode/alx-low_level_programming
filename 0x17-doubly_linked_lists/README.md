@@ -45,3 +45,7 @@ C Programming ADT - Doubly-linked lists.
 - ***[102-result](https://github.com/10thcode/alx-low_level_programming/blob/main/0x17-doubly_linked_lists/102-result)***
 
     The largest palindrome made from the product of two 3-digit numbers.
+
+- ***[lists.h](https://github.com/10thcode/alx-low_level_programming/blob/main/0x17-doubly_linked_lists/lists.h)***
+
+    Main header file constaining all function prototypes and data structures.
